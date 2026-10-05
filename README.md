@@ -10,4 +10,4 @@ Premium website concept for The Farmer’s Wife Farm Shop, Cafe and Campsite.
 - public/images/gallery — atmosphere and editorial gallery
 - public/images/visit — entrance and location
 
-Replace the README.txt placeholder in each folder with the real business photos.
+Replace the README.txt placeholder in each folder with the real business photos.\n\nBuild initialized for Vercel deployment.\n
