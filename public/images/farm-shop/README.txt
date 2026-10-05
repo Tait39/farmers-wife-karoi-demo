@@ -1,0 +1,1 @@
+ADD FARM SHOP PHOTOS HERE — shelves, products, preserves, farm produce, gifts.
