@@ -1,0 +1,1 @@
+ADD GENERAL GALLERY PHOTOS HERE — people, farm atmosphere, landscape, details.
