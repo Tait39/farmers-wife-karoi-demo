@@ -1,0 +1,1 @@
+ADD THE MAIN HERO PHOTO HERE — ideally a strong authentic exterior/countryside image.
