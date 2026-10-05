@@ -1,0 +1,1 @@
+ADD CAFE PHOTOS HERE — coffee, homemade treats, takeaway meals, seating, food.
